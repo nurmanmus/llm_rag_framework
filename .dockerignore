@@ -1,0 +1,13 @@
+.keras
+.cache
+.checkpoints
+volumes
+.github
+mlruns
+
+*.gguf
+*.pdf
+*.pkl
+*.h5
+*.faiss
+*.csv
